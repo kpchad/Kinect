@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SolutionFile>
+		<Header>
+			<Date>2017-08-12</Date>
+			<Time>15:41:22.7403939-07:00</Time>
+			<Version>1</Version>
+			<Type>Solution</Type>
+			<ID>406f7a4f-9df6-4c1e-92a8-d90d716be78d</ID>
+		</Header>
+		<Solution_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>walkAround_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>walkAround_Left.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>walkAround_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>walkAround_Right.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>walkAroundProgress_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>walkAroundProgress_Left.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>walkAroundProgress_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>walkAroundProgress_Right.a.vgbproj</File>
+					</Items>
+				</Content>
+			</Files>
+		</Solution_Data>
+		<UI_State />
+		<Attributes />
+	</SolutionFile>
+</GestureBuilderFile>
